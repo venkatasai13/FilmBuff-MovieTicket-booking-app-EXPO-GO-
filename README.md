@@ -64,3 +64,8 @@
 git clone https://github.com/venkatasai13/FilmBuff-MovieTicket-booking-app-EXPO-GO.git
 cd FilmBuff-MovieTicket-booking-app-EXPO-GO
 npm install
+
+
+### App Screenshots
+
+Link of Screenshots https://drive.google.com/drive/folders/15uDPIAFDVNU3-h8kv2_tRl3W3RFHKIiy?usp=drive_link
